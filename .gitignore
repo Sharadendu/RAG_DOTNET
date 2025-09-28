@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RAG/bin/Debug/net8.0/appsettings.json
 RAG/bin/Debug/net8.0/Google.Protobuf.dll
 RAG/bin/Debug/net8.0/Grpc.Core.Api.dll
@@ -60,3 +61,7 @@ RAG/obj/Debug/net8.0/RAG.pdb
 RAG/obj/Debug/net8.0/RAG.sourcelink.json
 RAG/obj/Debug/net8.0/ref/RAG.dll
 RAG/obj/Debug/net8.0/refint/RAG.dll
+=======
+bin/
+obj/
+>>>>>>> 862c2b1 (Added gitignore)

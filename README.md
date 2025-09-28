@@ -10,12 +10,12 @@ End‑to‑end Retrieval‑Augmented Generation (RAG) sample in C# (.NET 8) feat
 
 This README goes beyond a quick start: it explains internals, rationale behind design choices, trade‑offs, and how to extend / tune the system for production‑like scenarios.
 
-🤖 Semantic Kernel Integration: Uses Microsoft Semantic Kernel for orchestrating AI operations
-🦙 Ollama Support: Connects to local Ollama instance for LLM and embedding generation
-🔍 QdrantDB Vector Store: Stores and retrieves document embeddings using Qdrant
-📚 Document Ingestion: Support for text input and file-based document ingestion
-❓ Interactive Querying: Natural language querying with context-aware responses
-📊 Chunking Strategy: Intelligent document chunking with overlap for better context retention
+ * 🤖 Semantic Kernel Integration: Uses Microsoft Semantic Kernel for orchestrating AI operations
+ * 🦙 Ollama Support: Connects to local Ollama instance for LLM and embedding generation
+ * 🔍 QdrantDB Vector Store: Stores and retrieves document embeddings using Qdrant
+ * 📚 Document Ingestion: Support for text input and file-based document ingestion
+ * ❓ Interactive Querying: Natural language querying with context-aware responses
+ * 📊 Chunking Strategy: Intelligent document chunking with overlap for better context retention
 
 
 ## 🌟 Features (Overview)
